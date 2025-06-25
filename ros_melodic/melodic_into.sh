@@ -1,0 +1,1 @@
+docker exec -it ros-melodic-dev /bin/bash
